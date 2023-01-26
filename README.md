@@ -4,9 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-*   🌍  I'm based in The Netherlands
-*   🖥️  See my portfolio at [MyPortfolio](http://rillyv.com)<a href="https://www.github.com/rillyv" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/rillyv?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>### Skills 
+* 🌍  I'm based in The Netherlands
+* 🖥️  See my portfolio at [MyPortfolio](http://rillyv.com)
+
+<a href="https://www.github.com/rillyv" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rillyv?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -18,15 +24,16 @@ Backend Developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/rillyv#1082" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/rillyv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/rillyv"><img src="https://github-readme-stats.vercel.app/api?username=rillyv&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="rillyv's GitHub stats" /></a><a
-                      href="http://www.github.com/rillyv"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=rillyv&stroke=ffffff&background=181824&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/rillyv#1082" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rillyv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rillyv"><img src="https://github-readme-stats.vercel.app/api?username=rillyv&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="rillyv's GitHub stats" /></a>
+
+<a href="http://www.github.com/rillyv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rillyv&stroke=ffffff&background=181824&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
