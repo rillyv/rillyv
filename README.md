@@ -7,9 +7,6 @@ Backend Developer
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [MyPortfolio](http://rillyv.com)
 
-<a href="https://www.github.com/rillyv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rillyv?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
-
 ### Skills
 
 
@@ -34,6 +31,4 @@ src="https://img.shields.io/github/followers/rillyv?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rillyv"><img src="https://github-readme-stats.vercel.app/api?username=rillyv&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="rillyv's GitHub stats" /></a>
-
-<a href="http://www.github.com/rillyv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rillyv&stroke=ffffff&background=181824&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/rillyv"><img src="https://github-readme-stats.vercel.app/api?username=rillyv&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=181824&hide_border=true&show_icons=true" alt="rillyv's GitHub stats" /></a>
