@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end Developer
 ------------------
 
-Greetings! I started my coding journey in 2022 and have since become advanced in Python, Django, and the Django Rest Framework. I have a basic understanding of JavaScript, React, and Redux, as well as knowledge of data structures & algorithms. I am familiar with SQL and have experience using Docker.
+Welcome to my Github profile! I started coding in 2022 and have since become advanced in Python, Django, and the Django Rest Framework. I have a basic understanding of HTML, CSS, JavaScript, React, and Redux, as well as knowledge of data structures & algorithms. I am proficient in SQL and have experience using Github actions and Docker.
 
 * 🌍  I'm based in The Netherlands
 
