@@ -1,102 +1,3 @@
-ProfileMe.dev
-New feature:
-Changelog added
-
-
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-Go home
-© 2023 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Socials
-Connect with your visitors by adding links to your socials.
-
-Previous section
-Next section
-
-github
-GITHUB PROFILE:
-rillyv
-
-twitter
-TWITTER PROFILE:
-yourname
-
-hashnode
-HASHNODE PROFILE:
-yourname
-
-medium
-MEDIUM PROFILE:
-yourname
-
-devdotto
-DEV.TO PROFILE:
-yourname
-
-linkedin
-LINKEDIN PROFILE:
-yourname
-
-polywork
-POLYWORK PROFILE:
-yourname
-
-twitch
-TWITCH CHANNEL:
-yourname
-
-youtube
-YOUTUBE CHANNEL:
-yourname
-
-discord
-DISCORD CODE:
-rillyv#1082
-
-instagram
-INSTAGRAM PROFILE:
-yourname
-
-facebook
-FACEBOOK PROFILE:
-yourname
-
-dribbble
-DRIBBBLE PROFILE:
-yourname
-
-behance
-BEHANCE PROFILE:
-yourname
-
-codesandbox
-CODESANDBOX PROFILE:
-yourname
-
-codepen
-CODEPEN PROFILE:
-yourname
-
-stackoverflow
-STACKOVERFLOW PROFILE:
-yourname
-
-rss
-RSS URL:
-yourname
-Previous section
-Next section
-PREVIEW
-MARKDOWN
-COPY
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rilly
 =============================================================================================================================
 
@@ -105,10 +6,11 @@ Back-end Developer
 
 Welcome to my Github profile! I started coding in 2022 and have since become advanced in Python, Django, and the Django Rest Framework. I have a basic understanding of HTML, CSS, JavaScript, React, and Redux, as well as knowledge of data structures & algorithms. I am proficient in SQL and have experience using Github actions and Docker.
 
-* 🌍  I'm based in The Netherlands
-* ✉️  You can contact me at [rillyv.dev@gmail.com](mailto:rillyv.dev@gmail.com)
+* 🌍  I'm based in The Netherlands
+* ✉️  You can contact me at [rillyv.dev@gmail.com](mailto:rillyv.dev@gmail.com)
 
 ### Skills
+
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -125,13 +27,13 @@ Welcome to my Github profile! I started coding in 2022 and have since become adv
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/rillyv#1082" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rillyv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rillyv"><img src="https://github-readme-stats.vercel.app/api?username=rillyv&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=181824&hide_border=true&show_icons=true" alt="rillyv's GitHub stats" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
