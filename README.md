@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end Developer
 ------------------
 
-Welcome to my Github profile! I started my coding adventure in 2022 and have sharpened my abilities in Python, Django, the Django Rest Framework, and SQL. I have a basic understanding of HTML, CSS, Bootstrap, JavaScript, React, and Redux, and am familiar with data structures and algorithms. Additionally, I am experienced in using Github actions and Docker.
+My Github profile provides a comprehensive overview of my professional development as a programmer, which I have pursued since 2022. I possess advanced proficiency in Python, Django, and Django Rest Framework, in addition to extensive experience working with MySQL and PostgreSQL databases. Additionally, I am skilled in the use of Github actions and Docker for software development, and possess a foundational understanding of HTML, CSS, Bootstrap, JavaScript, React, and Redux. My expertise also extends to working with data structures and algorithms, which I have leveraged to produce high-quality code.
 
 * 🌍  I'm based in The Netherlands
 * ✉️  You can contact me at [rillyv.dev@gmail.com](mailto:rillyv.dev@gmail.com)
@@ -36,4 +36,4 @@ Welcome to my Github profile! I started my coding adventure in 2022 and have sha
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rillyv"><img src="https://github-readme-stats.vercel.app/api?username=rillyv&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=181824&hide_border=true&show_icons=true" alt="rillyv's GitHub stats" /></a>
+<a href="http://www.github.com/rillyv"><img src="https://github-readme-stats.vercel.app/api?username=rillyv&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=181824&hide_border=true&show_icons=true" alt="rillyv's GitHub stats" /></a>
