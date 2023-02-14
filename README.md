@@ -9,7 +9,7 @@ My Github profile provides a comprehensive overview of my professional developme
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [Rilly Portfolio](http://rillyv.io)
 * ✉️  You can contact me at [rillyv.dev@gmail.com](mailto:rillyv.dev@gmail.com)
-* 🧠  I'm actively learning and seeking to deepen my understanding and expertise in Data structures and Algorithms.
+* 🧠  I'm actively seeking to deepen my understanding and expertise in Data structures and Algorithms.
 
 ### Skills
 
