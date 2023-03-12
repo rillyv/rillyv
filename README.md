@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end Developer
 ------------------
 
-My Github profile provides a comprehensive overview of my professional development as a programmer, which I have pursued since 2022. I possess advanced proficiency in Python, Django, and Django Rest Framework, in addition to extensive experience working with MySQL and PostgreSQL databases. Additionally, I am skilled in the use of Github actions and Docker for software development, and possess a foundational understanding of HTML, CSS, Bootstrap, JavaScript and React. My expertise also extends to working with data structures and algorithms, which I have leveraged to produce high-quality code.
+My Github profile provides a comprehensive overview of my professional development as a programmer, which I have pursued since 2022. I possess proficiency in Python, Django, and Django Rest Framework, in addition to experience working with MySQL database. Additionally, I am skilled in the use of Github actions and Docker for software development, and possess a foundational understanding of HTML, CSS, Bootstrap, JavaScript and React. My expertise also extends to working with data structures and algorithms, which I have leveraged to produce high-quality code.
 
 * 🌍  I'm based in The Netherlands
 * ✉️  You can contact me at [rillyv.dev@gmail.com](mailto:rillyv.dev@gmail.com)
