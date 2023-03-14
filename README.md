@@ -32,4 +32,3 @@ My Github profile provides a comprehensive overview of my professional developme
 
 <a href="http://www.github.com/rillyv"><img src="https://github-readme-stats.vercel.app/api?username=rillyv&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=181824&hide_border=true&show_icons=true" alt="rillyv's GitHub stats" /></a>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=rillyv)
